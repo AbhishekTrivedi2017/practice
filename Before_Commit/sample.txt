@@ -1,0 +1,2 @@
+Hi How are You ! 
+This us the first text text when I did nit attach my new git local branch to remote.
