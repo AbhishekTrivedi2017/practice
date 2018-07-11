@@ -1,4 +1,6 @@
 Hi How are You ! 
-This us the second text text when I did nit attach my new git local branch to remote.
+This us the third text text when I did nit attach my new git local branch to remote.
 
 Its second commit with conflict.
+
+First new cut
